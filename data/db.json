@@ -106,7 +106,7 @@
       "category": "Burgers",
       "price": 179,
       "description": "Crispy paneer patty burger",
-      "image": "https://loremflickr.com/800/600/paneer-burger?lock=1013"
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800"
     },
     {
       "id": 14,
@@ -114,7 +114,7 @@
       "category": "Burgers",
       "price": 199,
       "description": "Double cheese loaded veg burger",
-      "image": "https://loremflickr.com/800/600/double-burger?lock=1014"
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800"
     },
     {
       "id": 15,
@@ -122,7 +122,7 @@
       "category": "Burgers",
       "price": 149,
       "description": "Spicy crispy veg burger",
-      "image": "https://loremflickr.com/800/600/spicy-burger?lock=1015"
+      "image": "https://images.unsplash.com/photo-1520072959219-c595dc870360?w=800"
     },
     {
       "id": 16,
@@ -130,7 +130,7 @@
       "category": "Burgers",
       "price": 119,
       "description": "Indian style aloo tikki burger",
-      "image": "https://loremflickr.com/800/600/aloo-burger?lock=1016"
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800"
     },
     {
       "id": 17,
@@ -138,7 +138,7 @@
       "category": "Burgers",
       "price": 169,
       "description": "Mushroom patty with cheese and vegetables",
-      "image": "https://loremflickr.com/800/600/mushroom-burger?lock=1017"
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800"
     },
     {
       "id": 18,
@@ -146,7 +146,7 @@
       "category": "Burgers",
       "price": 159,
       "description": "Sweet corn and cheese burger",
-      "image": "https://loremflickr.com/800/600/corn-burger?lock=1018"
+      "image": "https://images.unsplash.com/photo-1520072959219-c595dc870360?w=800"
     },
     {
       "id": 19,
@@ -154,7 +154,7 @@
       "category": "Burgers",
       "price": 189,
       "description": "Tandoori paneer with creamy sauce",
-      "image": "https://loremflickr.com/800/600/tandoori-burger?lock=1019"
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800"
     },
     {
       "id": 20,
@@ -162,7 +162,7 @@
       "category": "Burgers",
       "price": 219,
       "description": "Premium loaded burger with cheese and vegetables",
-      "image": "https://loremflickr.com/800/600/premium-burger?lock=1020"
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800"
     },
     {
       "id": 21,
@@ -170,7 +170,7 @@
       "category": "Biryani",
       "price": 199,
       "description": "Aromatic basmati rice with vegetables",
-      "image": "https://loremflickr.com/800/600/veg-biryani?lock=1021"
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800"
     },
     {
       "id": 22,
@@ -178,7 +178,7 @@
       "category": "Biryani",
       "price": 249,
       "description": "Fragrant rice with spicy paneer",
-      "image": "https://loremflickr.com/800/600/paneer-biryani?lock=1022"
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=800"
     },
     {
       "id": 23,
@@ -186,7 +186,7 @@
       "category": "Biryani",
       "price": 229,
       "description": "Hyderabadi style aromatic vegetable biryani",
-      "image": "https://loremflickr.com/800/600/hyderabadi-biryani?lock=1023"
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800"
     },
     {
       "id": 24,
@@ -194,7 +194,7 @@
       "category": "Biryani",
       "price": 279,
       "description": "Special restaurant style vegetable biryani",
-      "image": "https://loremflickr.com/800/600/special-biryani?lock=1024"
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=800"
     },
     {
       "id": 25,
@@ -202,7 +202,7 @@
       "category": "Biryani",
       "price": 239,
       "description": "Mushroom cooked with aromatic basmati rice",
-      "image": "https://loremflickr.com/800/600/mushroom-biryani?lock=1025"
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800"
     },
     {
       "id": 26,
@@ -210,7 +210,7 @@
       "category": "Rice",
       "price": 119,
       "description": "Basmati rice tempered with cumin",
-      "image": "https://loremflickr.com/800/600/jeera-rice?lock=1026"
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800"
     },
     {
       "id": 27,
@@ -218,7 +218,7 @@
       "category": "Rice",
       "price": 169,
       "description": "Fried rice with fresh vegetables",
-      "image": "https://loremflickr.com/800/600/fried-rice?lock=1027"
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800"
     },
     {
       "id": 28,
@@ -226,7 +226,7 @@
       "category": "Rice",
       "price": 189,
       "description": "Spicy Schezwan style fried rice",
-      "image": "https://loremflickr.com/800/600/schezwan-rice?lock=1028"
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800"
     },
     {
       "id": 29,
@@ -234,7 +234,7 @@
       "category": "Rice",
       "price": 199,
       "description": "Fried rice with crispy paneer",
-      "image": "https://loremflickr.com/800/600/paneer-rice?lock=1029"
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800"
     },
     {
       "id": 30,
@@ -242,7 +242,7 @@
       "category": "Rice",
       "price": 179,
       "description": "Aromatic fried rice with garlic",
-      "image": "https://loremflickr.com/800/600/garlic-rice?lock=1030"
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800"
     },
     {
       "id": 31,
@@ -250,7 +250,7 @@
       "category": "Pasta",
       "price": 219,
       "description": "Creamy pasta cooked in white sauce",
-      "image": "https://loremflickr.com/800/600/white-sauce-pasta?lock=1031"
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800"
     },
     {
       "id": 32,
@@ -258,7 +258,7 @@
       "category": "Pasta",
       "price": 199,
       "description": "Pasta tossed in tomato sauce",
-      "image": "https://loremflickr.com/800/600/red-sauce-pasta?lock=1032"
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800"
     },
     {
       "id": 33,
@@ -266,7 +266,7 @@
       "category": "Pasta",
       "price": 229,
       "description": "Spicy Italian tomato pasta",
-      "image": "https://loremflickr.com/800/600/arrabbiata-pasta?lock=1033"
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800"
     },
     {
       "id": 34,
@@ -274,7 +274,7 @@
       "category": "Pasta",
       "price": 239,
       "description": "Creamy cheese loaded pasta",
-      "image": "https://loremflickr.com/800/600/cheese-pasta?lock=1034"
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800"
     },
     {
       "id": 35,
@@ -282,7 +282,7 @@
       "category": "Pasta",
       "price": 249,
       "description": "Creamy pasta with paneer pieces",
-      "image": "https://loremflickr.com/800/600/paneer-pasta?lock=1035"
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800"
     },
     {
       "id": 36,
@@ -290,7 +290,7 @@
       "category": "Pasta",
       "price": 219,
       "description": "Pasta with fresh seasonal vegetables",
-      "image": "https://loremflickr.com/800/600/vegetable-pasta?lock=1036"
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800"
     },
     {
       "id": 37,
@@ -298,7 +298,7 @@
       "category": "Pasta",
       "price": 259,
       "description": "Creamy mushroom pasta",
-      "image": "https://loremflickr.com/800/600/mushroom-pasta?lock=1037"
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800"
     },
     {
       "id": 38,
@@ -306,7 +306,7 @@
       "category": "Pasta",
       "price": 199,
       "description": "Indian style spicy masala pasta",
-      "image": "https://loremflickr.com/800/600/masala-pasta?lock=1038"
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800"
     },
     {
       "id": 39,
@@ -314,7 +314,7 @@
       "category": "Pasta",
       "price": 239,
       "description": "Sweet corn and cheese pasta",
-      "image": "https://loremflickr.com/800/600/corn-pasta?lock=1039"
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800"
     },
     {
       "id": 40,
@@ -322,7 +322,7 @@
       "category": "Pasta",
       "price": 279,
       "description": "Chef special creamy vegetable pasta",
-      "image": "https://loremflickr.com/800/600/chef-pasta?lock=1040"
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800"
     },
     {
       "id": 41,
@@ -330,7 +330,7 @@
       "category": "Starters",
       "price": 229,
       "description": "Grilled paneer marinated with Indian spices",
-      "image": "https://loremflickr.com/800/600/paneer-tikka?lock=1041"
+      "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800"
     },
     {
       "id": 42,
@@ -338,7 +338,7 @@
       "category": "Starters",
       "price": 189,
       "description": "Healthy spinach and vegetable kebabs",
-      "image": "https://loremflickr.com/800/600/hara-bhara-kebab?lock=1042"
+      "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800"
     },
     {
       "id": 43,
@@ -346,7 +346,7 @@
       "category": "Starters",
       "price": 199,
       "description": "Spiced vegetable seekh kebabs",
-      "image": "https://loremflickr.com/800/600/seekh-kebab?lock=1043"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 44,
@@ -354,7 +354,7 @@
       "category": "Starters",
       "price": 249,
       "description": "Soft creamy paneer tikka",
-      "image": "https://loremflickr.com/800/600/malai-tikka?lock=1044"
+      "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800"
     },
     {
       "id": 45,
@@ -362,7 +362,7 @@
       "category": "Starters",
       "price": 179,
       "description": "Crispy fried sweet corn with spices",
-      "image": "https://loremflickr.com/800/600/crispy-corn?lock=1045"
+      "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=800"
     },
     {
       "id": 46,
@@ -370,7 +370,7 @@
       "category": "Starters",
       "price": 219,
       "description": "Paneer tossed with peppers and spicy sauce",
-      "image": "https://loremflickr.com/800/600/chilli-paneer?lock=1046"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 47,
@@ -378,7 +378,7 @@
       "category": "Starters",
       "price": 189,
       "description": "Vegetable dumplings in Manchurian sauce",
-      "image": "https://loremflickr.com/800/600/veg-manchurian?lock=1047"
+      "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?w=800"
     },
     {
       "id": 48,
@@ -386,7 +386,7 @@
       "category": "Starters",
       "price": 179,
       "description": "Crispy potato with sweet chilli glaze",
-      "image": "https://loremflickr.com/800/600/honey-chilli-potato?lock=1048"
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800"
     },
     {
       "id": 49,
@@ -394,7 +394,7 @@
       "category": "Starters",
       "price": 159,
       "description": "Crispy vegetable spring rolls",
-      "image": "https://loremflickr.com/800/600/spring-rolls?lock=1049"
+      "image": "https://images.unsplash.com/photo-1548507200-dad8f2b4c0e5?w=800"
     },
     {
       "id": 50,
@@ -402,7 +402,7 @@
       "category": "Starters",
       "price": 169,
       "description": "Garlic bread topped with melted cheese",
-      "image": "https://loremflickr.com/800/600/garlic-bread?lock=1050"
+      "image": "https://images.unsplash.com/photo-1573140401552-3fab0b24306f?w=800"
     },
     {
       "id": 51,
@@ -410,7 +410,7 @@
       "category": "Main Course",
       "price": 149,
       "description": "Yellow lentils tempered with Indian spices",
-      "image": "https://loremflickr.com/800/600/dal-tadka?lock=1051"
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800"
     },
     {
       "id": 52,
@@ -418,7 +418,7 @@
       "category": "Main Course",
       "price": 199,
       "description": "Creamy black lentils cooked overnight",
-      "image": "https://loremflickr.com/800/600/dal-makhani?lock=1052"
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800"
     },
     {
       "id": 53,
@@ -426,7 +426,7 @@
       "category": "Main Course",
       "price": 249,
       "description": "Paneer cooked in creamy tomato gravy",
-      "image": "https://loremflickr.com/800/600/paneer-butter-masala?lock=1053"
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800"
     },
     {
       "id": 54,
@@ -434,7 +434,7 @@
       "category": "Main Course",
       "price": 239,
       "description": "Paneer with capsicum and kadai spices",
-      "image": "https://loremflickr.com/800/600/kadai-paneer?lock=1054"
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800"
     },
     {
       "id": 55,
@@ -442,7 +442,7 @@
       "category": "Main Course",
       "price": 259,
       "description": "Rich paneer curry with creamy gravy",
-      "image": "https://loremflickr.com/800/600/shahi-paneer?lock=1055"
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800"
     },
     {
       "id": 56,
@@ -450,7 +450,7 @@
       "category": "Main Course",
       "price": 229,
       "description": "Paneer cooked in creamy spinach gravy",
-      "image": "https://loremflickr.com/800/600/palak-paneer?lock=1056"
+      "image": "https://images.unsplash.com/photo-1618449840665-9ed506d3f8a1?w=800"
     },
     {
       "id": 57,
@@ -458,7 +458,7 @@
       "category": "Main Course",
       "price": 179,
       "description": "Mixed vegetables cooked with Indian spices",
-      "image": "https://loremflickr.com/800/600/mix-vegetable?lock=1057"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 58,
@@ -466,7 +466,7 @@
       "category": "Main Course",
       "price": 249,
       "description": "Soft vegetable kofta in creamy gravy",
-      "image": "https://loremflickr.com/800/600/malai-kofta?lock=1058"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 59,
@@ -474,7 +474,7 @@
       "category": "Main Course",
       "price": 159,
       "description": "Spicy chickpea curry",
-      "image": "https://loremflickr.com/800/600/chole-masala?lock=1059"
+      "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=800"
     },
     {
       "id": 60,
@@ -482,7 +482,7 @@
       "category": "Main Course",
       "price": 139,
       "description": "Potatoes cooked with cumin and spices",
-      "image": "https://loremflickr.com/800/600/aloo-jeera?lock=1060"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 61,
@@ -490,7 +490,7 @@
       "category": "Breads",
       "price": 59,
       "description": "Soft naan topped with butter",
-      "image": "https://loremflickr.com/800/600/butter-naan?lock=1061"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 62,
@@ -498,7 +498,7 @@
       "category": "Breads",
       "price": 79,
       "description": "Naan topped with garlic and butter",
-      "image": "https://loremflickr.com/800/600/garlic-naan?lock=1062"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 63,
@@ -506,7 +506,7 @@
       "category": "Breads",
       "price": 49,
       "description": "Soft traditional Indian naan",
-      "image": "https://loremflickr.com/800/600/plain-naan?lock=1063"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 64,
@@ -514,7 +514,7 @@
       "category": "Breads",
       "price": 39,
       "description": "Traditional tandoori roti",
-      "image": "https://loremflickr.com/800/600/tandoori-roti?lock=1064"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 65,
@@ -522,7 +522,7 @@
       "category": "Breads",
       "price": 49,
       "description": "Soft roti with butter",
-      "image": "https://loremflickr.com/800/600/butter-roti?lock=1065"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 66,
@@ -530,7 +530,7 @@
       "category": "Breads",
       "price": 69,
       "description": "Layered crispy Indian paratha",
-      "image": "https://loremflickr.com/800/600/lachha-paratha?lock=1066"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 67,
@@ -538,7 +538,7 @@
       "category": "Breads",
       "price": 119,
       "description": "Stuffed paneer paratha with butter",
-      "image": "https://loremflickr.com/800/600/paneer-paratha?lock=1067"
+      "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=800"
     },
     {
       "id": 68,
@@ -546,7 +546,7 @@
       "category": "Breads",
       "price": 99,
       "description": "Stuffed potato paratha",
-      "image": "https://loremflickr.com/800/600/aloo-paratha?lock=1068"
+      "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=800"
     },
     {
       "id": 69,
@@ -554,7 +554,7 @@
       "category": "Breads",
       "price": 109,
       "description": "Naan stuffed with cheese",
-      "image": "https://loremflickr.com/800/600/cheese-naan?lock=1069"
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
     },
     {
       "id": 70,
@@ -562,7 +562,7 @@
       "category": "Breads",
       "price": 109,
       "description": "Soft stuffed Indian kulcha",
-      "image": "https://loremflickr.com/800/600/kulcha?lock=1070"
+      "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=800"
     },
     {
       "id": 71,
@@ -570,7 +570,7 @@
       "category": "Sides",
       "price": 99,
       "description": "Crispy golden French fries",
-      "image": "https://loremflickr.com/800/600/french-fries?lock=1071"
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800"
     },
     {
       "id": 72,
@@ -578,7 +578,7 @@
       "category": "Sides",
       "price": 129,
       "description": "French fries with spicy peri peri seasoning",
-      "image": "https://loremflickr.com/800/600/peri-peri-fries?lock=1072"
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800"
     },
     {
       "id": 73,
@@ -586,7 +586,7 @@
       "category": "Sides",
       "price": 149,
       "description": "Fries topped with creamy cheese",
-      "image": "https://loremflickr.com/800/600/cheese-fries?lock=1073"
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800"
     },
     {
       "id": 74,
@@ -594,7 +594,7 @@
       "category": "Sides",
       "price": 119,
       "description": "Crispy fries with Indian masala",
-      "image": "https://loremflickr.com/800/600/masala-fries?lock=1074"
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800"
     },
     {
       "id": 75,
@@ -602,7 +602,7 @@
       "category": "Sandwich",
       "price": 129,
       "description": "Fresh vegetable grilled sandwich",
-      "image": "https://loremflickr.com/800/600/veg-sandwich?lock=1075"
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
     },
     {
       "id": 76,
@@ -610,7 +610,7 @@
       "category": "Sandwich",
       "price": 159,
       "description": "Grilled sandwich with melted cheese",
-      "image": "https://loremflickr.com/800/600/cheese-sandwich?lock=1076"
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
     },
     {
       "id": 77,
@@ -618,7 +618,7 @@
       "category": "Sandwich",
       "price": 179,
       "description": "Grilled sandwich with spicy paneer",
-      "image": "https://loremflickr.com/800/600/paneer-sandwich?lock=1077"
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
     },
     {
       "id": 78,
@@ -626,7 +626,7 @@
       "category": "Sandwich",
       "price": 199,
       "description": "Loaded triple layer vegetable sandwich",
-      "image": "https://loremflickr.com/800/600/club-sandwich?lock=1078"
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
     },
     {
       "id": 79,
@@ -634,7 +634,7 @@
       "category": "Sandwich",
       "price": 169,
       "description": "Sweet corn and cheese grilled sandwich",
-      "image": "https://loremflickr.com/800/600/corn-sandwich?lock=1079"
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
     },
     {
       "id": 80,
@@ -642,7 +642,7 @@
       "category": "Sandwich",
       "price": 189,
       "description": "Tandoori paneer grilled sandwich",
-      "image": "https://loremflickr.com/800/600/tandoori-sandwich?lock=1080"
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
     },
     {
       "id": 81,
@@ -650,7 +650,7 @@
       "category": "Drinks",
       "price": 129,
       "description": "Chilled creamy cold coffee",
-      "image": "https://loremflickr.com/800/600/cold-coffee?lock=1081"
+      "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800"
     },
     {
       "id": 82,
@@ -658,7 +658,7 @@
       "category": "Drinks",
       "price": 159,
       "description": "Rich chocolate milkshake",
-      "image": "https://loremflickr.com/800/600/chocolate-shake?lock=1082"
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800"
     },
     {
       "id": 83,
@@ -666,7 +666,7 @@
       "category": "Drinks",
       "price": 149,
       "description": "Creamy vanilla milkshake",
-      "image": "https://loremflickr.com/800/600/vanilla-shake?lock=1083"
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800"
     },
     {
       "id": 84,
@@ -674,7 +674,7 @@
       "category": "Drinks",
       "price": 159,
       "description": "Fresh strawberry milkshake",
-      "image": "https://loremflickr.com/800/600/strawberry-shake?lock=1084"
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800"
     },
     {
       "id": 85,
@@ -682,7 +682,7 @@
       "category": "Drinks",
       "price": 159,
       "description": "Creamy mango milkshake",
-      "image": "https://loremflickr.com/800/600/mango-shake?lock=1085"
+      "image": "https://images.unsplash.com/photo-1623065422902-30a2d299bbe4?w=800"
     },
     {
       "id": 86,
@@ -690,7 +690,7 @@
       "category": "Drinks",
       "price": 89,
       "description": "Refreshing fresh lime soda",
-      "image": "https://loremflickr.com/800/600/lime-soda?lock=1086"
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800"
     },
     {
       "id": 87,
@@ -698,7 +698,7 @@
       "category": "Drinks",
       "price": 99,
       "description": "Refreshing lemonade with Indian spices",
-      "image": "https://loremflickr.com/800/600/lemonade?lock=1087"
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800"
     },
     {
       "id": 88,
@@ -706,7 +706,7 @@
       "category": "Drinks",
       "price": 99,
       "description": "Chilled refreshing iced tea",
-      "image": "https://loremflickr.com/800/600/iced-tea?lock=1088"
+      "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800"
     },
     {
       "id": 89,
@@ -714,7 +714,7 @@
       "category": "Drinks",
       "price": 149,
       "description": "Refreshing mint and lime mojito",
-      "image": "https://loremflickr.com/800/600/mojito?lock=1089"
+      "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=800"
     },
     {
       "id": 90,
@@ -722,7 +722,7 @@
       "category": "Drinks",
       "price": 149,
       "description": "Chilled chocolate drink",
-      "image": "https://loremflickr.com/800/600/cold-chocolate?lock=1090"
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800"
     },
     {
       "id": 91,
@@ -730,7 +730,7 @@
       "category": "Desserts",
       "price": 99,
       "description": "Soft gulab jamun served warm",
-      "image": "https://loremflickr.com/800/600/gulab-jamun?lock=1091"
+      "image": "https://images.unsplash.com/photo-1601303516534-8d0c4b6d4b3e?w=800"
     },
     {
       "id": 92,
@@ -738,7 +738,7 @@
       "category": "Desserts",
       "price": 129,
       "description": "Soft paneer dumplings in creamy milk",
-      "image": "https://loremflickr.com/800/600/rasmalai?lock=1092"
+      "image": "https://images.unsplash.com/photo-1631452180775-7f3b7d4a3c5e?w=800"
     },
     {
       "id": 93,
@@ -746,7 +746,7 @@
       "category": "Desserts",
       "price": 149,
       "description": "Warm chocolate brownie",
-      "image": "https://loremflickr.com/800/600/brownie?lock=1093"
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=800"
     },
     {
       "id": 94,
@@ -754,7 +754,7 @@
       "category": "Desserts",
       "price": 169,
       "description": "Rich and moist chocolate cake",
-      "image": "https://loremflickr.com/800/600/chocolate-cake?lock=1094"
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800"
     },
     {
       "id": 95,
@@ -762,7 +762,7 @@
       "category": "Desserts",
       "price": 99,
       "description": "Classic creamy vanilla ice cream",
-      "image": "https://loremflickr.com/800/600/vanilla-ice-cream?lock=1095"
+      "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=800"
     },
     {
       "id": 96,
@@ -770,7 +770,7 @@
       "category": "Desserts",
       "price": 109,
       "description": "Creamy chocolate ice cream",
-      "image": "https://loremflickr.com/800/600/chocolate-ice-cream?lock=1096"
+      "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=800"
     },
     {
       "id": 97,
@@ -778,7 +778,7 @@
       "category": "Desserts",
       "price": 199,
       "description": "Warm brownie served with ice cream",
-      "image": "https://loremflickr.com/800/600/brownie-ice-cream?lock=1097"
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=800"
     },
     {
       "id": 98,
@@ -786,7 +786,7 @@
       "category": "Desserts",
       "price": 139,
       "description": "Fresh fruits with creamy dressing",
-      "image": "https://loremflickr.com/800/600/fruit-cream?lock=1098"
+      "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?w=800"
     },
     {
       "id": 99,
@@ -794,7 +794,7 @@
       "category": "Desserts",
       "price": 89,
       "description": "Traditional Indian creamy kulfi",
-      "image": "https://loremflickr.com/800/600/kulfi?lock=1099"
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=800"
     },
     {
       "id": 100,
@@ -802,808 +802,7 @@
       "category": "Desserts",
       "price": 299,
       "description": "Chef selection of delicious desserts",
-      "image": "https://loremflickr.com/800/600/dessert-platter?lock=1100"
-    },
-
-    {
-      "id": 101,
-      "name": "Tandoori Paneer Pizza",
-      "category": "Pizza",
-      "price": 349,
-      "description": "Pizza topped with smoky tandoori paneer",
-      "image": "https://loremflickr.com/800/600/tandoori-pizza?lock=1101"
-    },
-    {
-      "id": 102,
-      "name": "Achari Paneer Pizza",
-      "category": "Pizza",
-      "price": 359,
-      "description": "Tangy achari paneer pizza with vegetables",
-      "image": "https://loremflickr.com/800/600/achari-pizza?lock=1102"
-    },
-    {
-      "id": 103,
-      "name": "Peri Peri Paneer Pizza",
-      "category": "Pizza",
-      "price": 369,
-      "description": "Spicy paneer pizza with peri peri seasoning",
-      "image": "https://loremflickr.com/800/600/peri-peri-pizza?lock=1103"
-    },
-    {
-      "id": 104,
-      "name": "Jalapeno Cheese Pizza",
-      "category": "Pizza",
-      "price": 329,
-      "description": "Cheesy pizza topped with jalapeno peppers",
-      "image": "https://loremflickr.com/800/600/jalapeno-pizza?lock=1104"
-    },
-    {
-      "id": 105,
-      "name": "Loaded Veg Pizza",
-      "category": "Pizza",
-      "price": 399,
-      "description": "Loaded pizza with vegetables and extra cheese",
-      "image": "https://loremflickr.com/800/600/loaded-pizza?lock=1105"
-    },
-    {
-      "id": 106,
-      "name": "Maharaja Veg Burger",
-      "category": "Burgers",
-      "price": 229,
-      "description": "Large loaded veg burger with cheese and sauces",
-      "image": "https://loremflickr.com/800/600/maharaja-burger?lock=1106"
-    },
-    {
-      "id": 107,
-      "name": "Peri Peri Paneer Burger",
-      "category": "Burgers",
-      "price": 199,
-      "description": "Paneer burger with spicy peri peri seasoning",
-      "image": "https://loremflickr.com/800/600/peri-peri-burger?lock=1107"
-    },
-    {
-      "id": 108,
-      "name": "Achari Paneer Burger",
-      "category": "Burgers",
-      "price": 199,
-      "description": "Paneer burger with tangy Indian pickle spices",
-      "image": "https://loremflickr.com/800/600/achari-burger?lock=1108"
-    },
-    {
-      "id": 109,
-      "name": "Mexican Veg Burger",
-      "category": "Burgers",
-      "price": 179,
-      "description": "Mexican style veg burger with spicy sauce",
-      "image": "https://loremflickr.com/800/600/mexican-burger?lock=1109"
-    },
-    {
-      "id": 110,
-      "name": "Jalapeno Cheese Burger",
-      "category": "Burgers",
-      "price": 189,
-      "description": "Cheese burger topped with spicy jalapenos",
-      "image": "https://loremflickr.com/800/600/jalapeno-burger?lock=1110"
-    },
-    {
-      "id": 111,
-      "name": "Tandoori Paneer Biryani",
-      "category": "Biryani",
-      "price": 279,
-      "description": "Aromatic biryani with smoky tandoori paneer",
-      "image": "https://loremflickr.com/800/600/tandoori-biryani?lock=1111"
-    },
-    {
-      "id": 112,
-      "name": "Achari Paneer Biryani",
-      "category": "Biryani",
-      "price": 269,
-      "description": "Biryani with tangy achari paneer",
-      "image": "https://loremflickr.com/800/600/achari-biryani?lock=1112"
-    },
-    {
-      "id": 113,
-      "name": "Kaju Biryani",
-      "category": "Biryani",
-      "price": 289,
-      "description": "Rich vegetable biryani with roasted cashews",
-      "image": "https://loremflickr.com/800/600/kaju-biryani?lock=1113"
-    },
-    {
-      "id": 114,
-      "name": "Handi Veg Biryani",
-      "category": "Biryani",
-      "price": 259,
-      "description": "Restaurant style handi cooked vegetable biryani",
-      "image": "https://loremflickr.com/800/600/handi-biryani?lock=1114"
-    },
-    {
-      "id": 115,
-      "name": "Dum Veg Biryani",
-      "category": "Biryani",
-      "price": 249,
-      "description": "Slow cooked aromatic vegetable dum biryani",
-      "image": "https://loremflickr.com/800/600/dum-biryani?lock=1115"
-    },
-    {
-      "id": 116,
-      "name": "Veg Pulao",
-      "category": "Rice",
-      "price": 159,
-      "description": "Fragrant basmati rice cooked with vegetables",
-      "image": "https://loremflickr.com/800/600/veg-pulao?lock=1116"
-    },
-    {
-      "id": 117,
-      "name": "Chilli Garlic Rice",
-      "category": "Rice",
-      "price": 189,
-      "description": "Fried rice with garlic and chilli",
-      "image": "https://loremflickr.com/800/600/chilli-garlic-rice?lock=1117"
-    },
-    {
-      "id": 118,
-      "name": "Mushroom Fried Rice",
-      "category": "Rice",
-      "price": 199,
-      "description": "Fried rice with fresh mushrooms",
-      "image": "https://loremflickr.com/800/600/mushroom-rice?lock=1118"
-    },
-    {
-      "id": 119,
-      "name": "Corn Fried Rice",
-      "category": "Rice",
-      "price": 179,
-      "description": "Fried rice with sweet corn and vegetables",
-      "image": "https://loremflickr.com/800/600/corn-rice?lock=1119"
-    },
-    {
-      "id": 120,
-      "name": "Triple Schezwan Rice",
-      "category": "Rice",
-      "price": 229,
-      "description": "Loaded rice preparation with spicy Schezwan sauce",
-      "image": "https://loremflickr.com/800/600/triple-rice?lock=1120"
-    },
-    {
-      "id": 121,
-      "name": "Pesto Pasta",
-      "category": "Pasta",
-      "price": 279,
-      "description": "Pasta tossed in creamy basil pesto sauce",
-      "image": "https://loremflickr.com/800/600/pesto-pasta?lock=1121"
-    },
-    {
-      "id": 122,
-      "name": "Pink Sauce Pasta",
-      "category": "Pasta",
-      "price": 249,
-      "description": "Creamy combination of tomato and white sauce",
-      "image": "https://loremflickr.com/800/600/pink-pasta?lock=1122"
-    },
-    {
-      "id": 123,
-      "name": "Alfredo Pasta",
-      "category": "Pasta",
-      "price": 259,
-      "description": "Creamy Alfredo pasta with herbs",
-      "image": "https://loremflickr.com/800/600/alfredo-pasta?lock=1123"
-    },
-    {
-      "id": 124,
-      "name": "Mac and Cheese Pasta",
-      "category": "Pasta",
-      "price": 269,
-      "description": "Creamy macaroni pasta with rich cheese",
-      "image": "https://loremflickr.com/800/600/mac-cheese?lock=1124"
-    },
-    {
-      "id": 125,
-      "name": "Tandoori Paneer Pasta",
-      "category": "Pasta",
-      "price": 269,
-      "description": "Creamy pasta with spicy tandoori paneer",
-      "image": "https://loremflickr.com/800/600/tandoori-pasta?lock=1125"
-    },
-    {
-      "id": 126,
-      "name": "Tandoori Mushroom",
-      "category": "Starters",
-      "price": 219,
-      "description": "Mushrooms marinated in tandoori spices",
-      "image": "https://loremflickr.com/800/600/tandoori-mushroom?lock=1126"
-    },
-    {
-      "id": 127,
-      "name": "Achari Paneer Tikka",
-      "category": "Starters",
-      "price": 239,
-      "description": "Paneer tikka with tangy pickle spices",
-      "image": "https://loremflickr.com/800/600/achari-paneer?lock=1127"
-    },
-    {
-      "id": 128,
-      "name": "Pahadi Paneer Tikka",
-      "category": "Starters",
-      "price": 239,
-      "description": "Paneer tikka prepared with mountain style herbs",
-      "image": "https://loremflickr.com/800/600/pahadi-paneer?lock=1128"
-    },
-    {
-      "id": 129,
-      "name": "Afghani Paneer Tikka",
-      "category": "Starters",
-      "price": 249,
-      "description": "Creamy Afghani style paneer tikka",
-      "image": "https://loremflickr.com/800/600/afghani-paneer?lock=1129"
-    },
-    {
-      "id": 130,
-      "name": "Peri Peri Paneer",
-      "category": "Starters",
-      "price": 239,
-      "description": "Crispy paneer coated with peri peri spices",
-      "image": "https://loremflickr.com/800/600/peri-peri-paneer?lock=1130"
-    },
-    {
-      "id": 131,
-      "name": "Crispy Paneer",
-      "category": "Starters",
-      "price": 229,
-      "description": "Crispy fried paneer with special seasoning",
-      "image": "https://loremflickr.com/800/600/crispy-paneer?lock=1131"
-    },
-    {
-      "id": 132,
-      "name": "Chilli Mushroom",
-      "category": "Starters",
-      "price": 199,
-      "description": "Mushrooms tossed with chilli and vegetables",
-      "image": "https://loremflickr.com/800/600/chilli-mushroom?lock=1132"
-    },
-    {
-      "id": 133,
-      "name": "Crispy Baby Corn",
-      "category": "Starters",
-      "price": 189,
-      "description": "Crispy baby corn with spicy seasoning",
-      "image": "https://loremflickr.com/800/600/baby-corn?lock=1133"
-    },
-    {
-      "id": 134,
-      "name": "Veg Salt and Pepper",
-      "category": "Starters",
-      "price": 189,
-      "description": "Crispy vegetables with salt and pepper seasoning",
-      "image": "https://loremflickr.com/800/600/salt-pepper-vegetables?lock=1134"
-    },
-    {
-      "id": 135,
-      "name": "Schezwan Paneer",
-      "category": "Starters",
-      "price": 229,
-      "description": "Paneer tossed in spicy Schezwan sauce",
-      "image": "https://loremflickr.com/800/600/schezwan-paneer?lock=1135"
-    },
-    {
-      "id": 136,
-      "name": "Rajma Masala",
-      "category": "Main Course",
-      "price": 179,
-      "description": "Slow cooked kidney beans in Indian spices",
-      "image": "https://loremflickr.com/800/600/rajma-masala?lock=1136"
-    },
-    {
-      "id": 137,
-      "name": "Dal Fry",
-      "category": "Main Course",
-      "price": 149,
-      "description": "Yellow dal tempered with garlic and spices",
-      "image": "https://loremflickr.com/800/600/dal-fry?lock=1137"
-    },
-    {
-      "id": 138,
-      "name": "Matar Paneer",
-      "category": "Main Course",
-      "price": 219,
-      "description": "Paneer and peas cooked in tomato gravy",
-      "image": "https://loremflickr.com/800/600/matar-paneer?lock=1138"
-    },
-    {
-      "id": 139,
-      "name": "Paneer Do Pyaza",
-      "category": "Main Course",
-      "price": 239,
-      "description": "Paneer cooked with onions and Indian spices",
-      "image": "https://loremflickr.com/800/600/paneer-do-pyaza?lock=1139"
-    },
-    {
-      "id": 140,
-      "name": "Paneer Lababdar",
-      "category": "Main Course",
-      "price": 259,
-      "description": "Rich creamy paneer lababdar gravy",
-      "image": "https://loremflickr.com/800/600/paneer-lababdar?lock=1140"
-    },
-    {
-      "id": 141,
-      "name": "Paneer Tikka Masala",
-      "category": "Main Course",
-      "price": 249,
-      "description": "Tandoori paneer pieces in spicy tomato gravy",
-      "image": "https://loremflickr.com/800/600/paneer-tikka-masala?lock=1141"
-    },
-    {
-      "id": 142,
-      "name": "Mushroom Masala",
-      "category": "Main Course",
-      "price": 229,
-      "description": "Fresh mushrooms cooked in rich masala gravy",
-      "image": "https://loremflickr.com/800/600/mushroom-masala?lock=1142"
-    },
-    {
-      "id": 143,
-      "name": "Kadai Mushroom",
-      "category": "Main Course",
-      "price": 229,
-      "description": "Mushroom cooked with capsicum and kadai spices",
-      "image": "https://loremflickr.com/800/600/kadai-mushroom?lock=1143"
-    },
-    {
-      "id": 144,
-      "name": "Veg Kolhapuri",
-      "category": "Main Course",
-      "price": 199,
-      "description": "Mixed vegetables in spicy Kolhapuri gravy",
-      "image": "https://loremflickr.com/800/600/veg-kolhapuri?lock=1144"
-    },
-    {
-      "id": 145,
-      "name": "Veg Handi",
-      "category": "Main Course",
-      "price": 219,
-      "description": "Mixed vegetables cooked in creamy handi gravy",
-      "image": "https://loremflickr.com/800/600/veg-handi?lock=1145"
-    },
-    {
-      "id": 146,
-      "name": "Veg Jaipuri",
-      "category": "Main Course",
-      "price": 219,
-      "description": "Jaipuri style mixed vegetable curry",
-      "image": "https://loremflickr.com/800/600/veg-jaipuri?lock=1146"
-    },
-    {
-      "id": 147,
-      "name": "Cheese Garlic Bread",
-      "category": "Sides",
-      "price": 169,
-      "description": "Garlic bread topped with melted cheese",
-      "image": "https://loremflickr.com/800/600/cheese-garlic-bread?lock=1147"
-    },
-    {
-      "id": 148,
-      "name": "Potato Wedges",
-      "category": "Sides",
-      "price": 129,
-      "description": "Crispy seasoned potato wedges",
-      "image": "https://loremflickr.com/800/600/potato-wedges?lock=1148"
-    },
-    {
-      "id": 149,
-      "name": "Cheese Wedges",
-      "category": "Sides",
-      "price": 159,
-      "description": "Potato wedges topped with cheese",
-      "image": "https://loremflickr.com/800/600/cheese-wedges?lock=1149"
-    },
-    {
-      "id": 150,
-      "name": "Loaded Fries",
-      "category": "Sides",
-      "price": 179,
-      "description": "Fries loaded with cheese and sauces",
-      "image": "https://loremflickr.com/800/600/loaded-fries?lock=1150"
-    },
-    {
-      "id": 151,
-      "name": "Nachos",
-      "category": "Sides",
-      "price": 149,
-      "description": "Crispy nachos served with salsa",
-      "image": "https://loremflickr.com/800/600/nachos?lock=1151"
-    },
-    {
-      "id": 152,
-      "name": "Cheese Nachos",
-      "category": "Sides",
-      "price": 179,
-      "description": "Nachos topped with creamy cheese",
-      "image": "https://loremflickr.com/800/600/cheese-nachos?lock=1152"
-    },
-    {
-      "id": 153,
-      "name": "Loaded Nachos",
-      "category": "Sides",
-      "price": 219,
-      "description": "Loaded nachos with cheese, vegetables and sauces",
-      "image": "https://loremflickr.com/800/600/loaded-nachos?lock=1153"
-    },
-    {
-      "id": 154,
-      "name": "Masala Papad",
-      "category": "Sides",
-      "price": 69,
-      "description": "Crispy papad topped with onion and tomato",
-      "image": "https://loremflickr.com/800/600/masala-papad?lock=1154"
-    },
-    {
-      "id": 155,
-      "name": "Roasted Papad",
-      "category": "Sides",
-      "price": 49,
-      "description": "Crispy roasted papad",
-      "image": "https://loremflickr.com/800/600/papad?lock=1155"
-    },
-    {
-      "id": 156,
-      "name": "Mysore Masala Dosa",
-      "category": "South Indian",
-      "price": 159,
-      "description": "Crispy dosa with spicy Mysore masala",
-      "image": "https://loremflickr.com/800/600/mysore-dosa?lock=1156"
-    },
-    {
-      "id": 157,
-      "name": "Cheese Dosa",
-      "category": "South Indian",
-      "price": 179,
-      "description": "Crispy dosa filled with melted cheese",
-      "image": "https://loremflickr.com/800/600/cheese-dosa?lock=1157"
-    },
-    {
-      "id": 158,
-      "name": "Paneer Dosa",
-      "category": "South Indian",
-      "price": 189,
-      "description": "Dosa stuffed with spicy paneer filling",
-      "image": "https://loremflickr.com/800/600/paneer-dosa?lock=1158"
-    },
-    {
-      "id": 159,
-      "name": "Rava Dosa",
-      "category": "South Indian",
-      "price": 139,
-      "description": "Crispy semolina dosa served with chutney",
-      "image": "https://loremflickr.com/800/600/rava-dosa?lock=1159"
-    },
-    {
-      "id": 160,
-      "name": "Onion Rava Dosa",
-      "category": "South Indian",
-      "price": 159,
-      "description": "Crispy rava dosa topped with onions",
-      "image": "https://loremflickr.com/800/600/onion-dosa?lock=1160"
-    },
-    {
-      "id": 161,
-      "name": "Paper Dosa",
-      "category": "South Indian",
-      "price": 149,
-      "description": "Extra crispy thin South Indian dosa",
-      "image": "https://loremflickr.com/800/600/paper-dosa?lock=1161"
-    },
-    {
-      "id": 162,
-      "name": "Set Dosa",
-      "category": "South Indian",
-      "price": 139,
-      "description": "Soft fluffy dosa served as a set",
-      "image": "https://loremflickr.com/800/600/set-dosa?lock=1162"
-    },
-    {
-      "id": 163,
-      "name": "Idli Sambar",
-      "category": "South Indian",
-      "price": 99,
-      "description": "Soft steamed idli served with sambar",
-      "image": "https://loremflickr.com/800/600/idli-sambar?lock=1163"
-    },
-    {
-      "id": 164,
-      "name": "Medu Vada",
-      "category": "South Indian",
-      "price": 109,
-      "description": "Crispy South Indian lentil fritters",
-      "image": "https://loremflickr.com/800/600/medu-vada?lock=1164"
-    },
-    {
-      "id": 165,
-      "name": "Masala Idli",
-      "category": "South Indian",
-      "price": 119,
-      "description": "Idli tossed with spices and vegetables",
-      "image": "https://loremflickr.com/800/600/masala-idli?lock=1165"
-    },
-    {
-      "id": 166,
-      "name": "Veg Hakka Noodles",
-      "category": "Chinese",
-      "price": 169,
-      "description": "Chinese style noodles with vegetables",
-      "image": "https://loremflickr.com/800/600/hakka-noodles?lock=1166"
-    },
-    {
-      "id": 167,
-      "name": "Schezwan Noodles",
-      "category": "Chinese",
-      "price": 189,
-      "description": "Spicy Schezwan noodles with vegetables",
-      "image": "https://loremflickr.com/800/600/schezwan-noodles?lock=1167"
-    },
-    {
-      "id": 168,
-      "name": "Chilli Garlic Noodles",
-      "category": "Chinese",
-      "price": 189,
-      "description": "Noodles tossed with chilli and garlic",
-      "image": "https://loremflickr.com/800/600/chilli-garlic-noodles?lock=1168"
-    },
-    {
-      "id": 169,
-      "name": "Paneer Noodles",
-      "category": "Chinese",
-      "price": 199,
-      "description": "Hakka noodles with paneer and vegetables",
-      "image": "https://loremflickr.com/800/600/paneer-noodles?lock=1169"
-    },
-    {
-      "id": 170,
-      "name": "Singapore Noodles",
-      "category": "Chinese",
-      "price": 209,
-      "description": "Spicy Singapore style vegetable noodles",
-      "image": "https://loremflickr.com/800/600/singapore-noodles?lock=1170"
-    },
-    {
-      "id": 171,
-      "name": "Veg Chowmein",
-      "category": "Chinese",
-      "price": 179,
-      "description": "Classic stir fried vegetable chowmein",
-      "image": "https://loremflickr.com/800/600/chowmein?lock=1171"
-    },
-    {
-      "id": 172,
-      "name": "Hong Kong Noodles",
-      "category": "Chinese",
-      "price": 209,
-      "description": "Hong Kong style stir fried noodles",
-      "image": "https://loremflickr.com/800/600/hong-kong-noodles?lock=1172"
-    },
-    {
-      "id": 173,
-      "name": "American Chopsuey",
-      "category": "Chinese",
-      "price": 219,
-      "description": "Crispy noodles with vegetables and tangy sauce",
-      "image": "https://loremflickr.com/800/600/chopsuey?lock=1173"
-    },
-    {
-      "id": 174,
-      "name": "Veg Chopsuey",
-      "category": "Chinese",
-      "price": 199,
-      "description": "Crispy noodles with mixed vegetables",
-      "image": "https://loremflickr.com/800/600/veg-chopsuey?lock=1174"
-    },
-    {
-      "id": 175,
-      "name": "Schezwan Chopsuey",
-      "category": "Chinese",
-      "price": 219,
-      "description": "Crispy noodles with spicy Schezwan sauce",
-      "image": "https://loremflickr.com/800/600/schezwan-chopsuey?lock=1175"
-    },
-    {
-      "id": 176,
-      "name": "Pav Bhaji",
-      "category": "Street Food",
-      "price": 149,
-      "description": "Mumbai style spicy vegetable bhaji with pav",
-      "image": "https://loremflickr.com/800/600/pav-bhaji?lock=1176"
-    },
-    {
-      "id": 177,
-      "name": "Cheese Pav Bhaji",
-      "category": "Street Food",
-      "price": 179,
-      "description": "Pav bhaji topped with melted cheese",
-      "image": "https://loremflickr.com/800/600/cheese-pav-bhaji?lock=1177"
-    },
-    {
-      "id": 178,
-      "name": "Masala Pav",
-      "category": "Street Food",
-      "price": 119,
-      "description": "Spicy masala served with toasted pav",
-      "image": "https://loremflickr.com/800/600/masala-pav?lock=1178"
-    },
-    {
-      "id": 179,
-      "name": "Vada Pav",
-      "category": "Street Food",
-      "price": 69,
-      "description": "Classic Mumbai style potato vada pav",
-      "image": "https://loremflickr.com/800/600/vada-pav?lock=1179"
-    },
-    {
-      "id": 180,
-      "name": "Cheese Vada Pav",
-      "category": "Street Food",
-      "price": 99,
-      "description": "Vada pav with melted cheese",
-      "image": "https://loremflickr.com/800/600/cheese-vada-pav?lock=1180"
-    },
-    {
-      "id": 181,
-      "name": "Dabeli",
-      "category": "Street Food",
-      "price": 79,
-      "description": "Sweet and spicy Gujarati street style dabeli",
-      "image": "https://loremflickr.com/800/600/dabeli?lock=1181"
-    },
-    {
-      "id": 182,
-      "name": "Aloo Tikki Chaat",
-      "category": "Street Food",
-      "price": 99,
-      "description": "Crispy aloo tikki with chutneys and curd",
-      "image": "https://loremflickr.com/800/600/aloo-tikki-chaat?lock=1182"
-    },
-    {
-      "id": 183,
-      "name": "Papdi Chaat",
-      "category": "Street Food",
-      "price": 109,
-      "description": "Crispy papdi topped with curd and chutneys",
-      "image": "https://loremflickr.com/800/600/papdi-chaat?lock=1183"
-    },
-    {
-      "id": 184,
-      "name": "Dahi Puri",
-      "category": "Street Food",
-      "price": 119,
-      "description": "Crispy puris filled with potato, curd and chutneys",
-      "image": "https://loremflickr.com/800/600/dahi-puri?lock=1184"
-    },
-    {
-      "id": 185,
-      "name": "Sev Puri",
-      "category": "Street Food",
-      "price": 109,
-      "description": "Crispy puris topped with sev and chutneys",
-      "image": "https://loremflickr.com/800/600/sev-puri?lock=1185"
-    },
-    {
-      "id": 186,
-      "name": "Tomato Soup",
-      "category": "Soups",
-      "price": 99,
-      "description": "Classic creamy tomato soup",
-      "image": "https://loremflickr.com/800/600/tomato-soup?lock=1186"
-    },
-    {
-      "id": 187,
-      "name": "Sweet Corn Soup",
-      "category": "Soups",
-      "price": 109,
-      "description": "Sweet corn and vegetable soup",
-      "image": "https://loremflickr.com/800/600/corn-soup?lock=1187"
-    },
-    {
-      "id": 188,
-      "name": "Hot and Sour Soup",
-      "category": "Soups",
-      "price": 119,
-      "description": "Spicy and tangy Chinese style soup",
-      "image": "https://loremflickr.com/800/600/hot-sour-soup?lock=1188"
-    },
-    {
-      "id": 189,
-      "name": "Manchow Soup",
-      "category": "Soups",
-      "price": 129,
-      "description": "Spicy vegetable soup topped with crispy noodles",
-      "image": "https://loremflickr.com/800/600/manchow-soup?lock=1189"
-    },
-    {
-      "id": 190,
-      "name": "Veg Clear Soup",
-      "category": "Soups",
-      "price": 99,
-      "description": "Light clear soup with fresh vegetables",
-      "image": "https://loremflickr.com/800/600/clear-soup?lock=1190"
-    },
-    {
-      "id": 191,
-      "name": "Veg Executive Thali",
-      "category": "Thali",
-      "price": 249,
-      "description": "Complete Indian meal with dal, sabzi, rice and bread",
-      "image": "https://loremflickr.com/800/600/indian-thali?lock=1191"
-    },
-    {
-      "id": 192,
-      "name": "Special Veg Thali",
-      "category": "Thali",
-      "price": 299,
-      "description": "Special restaurant thali with multiple Indian dishes",
-      "image": "https://loremflickr.com/800/600/veg-thali?lock=1192"
-    },
-    {
-      "id": 193,
-      "name": "Paneer Thali",
-      "category": "Thali",
-      "price": 329,
-      "description": "Complete thali featuring paneer curry and Indian sides",
-      "image": "https://loremflickr.com/800/600/paneer-thali?lock=1193"
-    },
-    {
-      "id": 194,
-      "name": "Punjabi Thali",
-      "category": "Thali",
-      "price": 299,
-      "description": "Punjabi meal with dal, paneer, bread, rice and sides",
-      "image": "https://loremflickr.com/800/600/punjabi-thali?lock=1194"
-    },
-    {
-      "id": 195,
-      "name": "Rajasthani Thali",
-      "category": "Thali",
-      "price": 349,
-      "description": "Traditional Rajasthani meal with regional specialties",
-      "image": "https://loremflickr.com/800/600/rajasthani-thali?lock=1195"
-    },
-    {
-      "id": 196,
-      "name": "Mango Lassi",
-      "category": "Drinks",
-      "price": 119,
-      "description": "Creamy yogurt drink blended with ripe mango",
-      "image": "https://loremflickr.com/800/600/mango-lassi?lock=1196"
-    },
-    {
-      "id": 197,
-      "name": "Sweet Lassi",
-      "category": "Drinks",
-      "price": 99,
-      "description": "Traditional sweet and creamy Punjabi lassi",
-      "image": "https://loremflickr.com/800/600/sweet-lassi?lock=1197"
-    },
-    {
-      "id": 198,
-      "name": "Masala Chaas",
-      "category": "Drinks",
-      "price": 79,
-      "description": "Refreshing buttermilk with Indian spices",
-      "image": "https://loremflickr.com/800/600/chaas?lock=1198"
-    },
-    {
-      "id": 199,
-      "name": "Fresh Orange Juice",
-      "category": "Drinks",
-      "price": 129,
-      "description": "Freshly prepared orange juice",
-      "image": "https://loremflickr.com/800/600/orange-juice?lock=1199"
-    },
-    {
-      "id": 200,
-      "name": "Royal Falooda",
-      "category": "Desserts",
-      "price": 219,
-      "description": "Rich falooda with ice cream, fruits and sweet toppings",
-      "image": "https://loremflickr.com/800/600/falooda?lock=1200"
+      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800"
     }
   ],
   "orders": [
@@ -1612,24 +811,9 @@
       "orderNo": "FD235031",
       "table": 1,
       "items": [
-        {
-          "id": 1,
-          "name": "Margherita Pizza",
-          "price": 249,
-          "qty": 1
-        },
-        {
-          "id": 2,
-          "name": "Farmhouse Pizza",
-          "price": 299,
-          "qty": 1
-        },
-        {
-          "id": 3,
-          "name": "Paneer Tikka Pizza",
-          "price": 329,
-          "qty": 1
-        }
+        { "id": 1, "name": "Margherita Pizza", "price": 249, "qty": 1 },
+        { "id": 2, "name": "Farmhouse Pizza", "price": 299, "qty": 1 },
+        { "id": 3, "name": "Paneer Tikka Pizza", "price": 329, "qty": 1 }
       ],
       "customer": "Guest",
       "note": "",
@@ -1646,12 +830,7 @@
       "orderNo": "FD759067",
       "table": 1,
       "items": [
-        {
-          "id": 18,
-          "name": "Corn Cheese Burger",
-          "price": 159,
-          "qty": 8
-        }
+        { "id": 18, "name": "Corn Cheese Burger", "price": 159, "qty": 8 }
       ],
       "customer": "Kuldeep Agarwal ",
       "note": "",
@@ -1667,14 +846,7 @@
       "id": 1786098730619,
       "orderNo": "FD730619",
       "table": 1,
-      "items": [
-        {
-          "id": 7,
-          "name": "Mushroom Pizza",
-          "price": 299,
-          "qty": 4
-        }
-      ],
+      "items": [{ "id": 7, "name": "Mushroom Pizza", "price": 299, "qty": 4 }],
       "customer": "Kuldeep Agarwal ",
       "note": "",
       "subtotal": 1196,
@@ -1689,14 +861,7 @@
       "id": 1786098498188,
       "orderNo": "FD498188",
       "table": 1,
-      "items": [
-        {
-          "id": 2,
-          "name": "Farmhouse Pizza",
-          "price": 299,
-          "qty": 4
-        }
-      ],
+      "items": [{ "id": 2, "name": "Farmhouse Pizza", "price": 299, "qty": 4 }],
       "customer": "Kuldeep Agarwal ",
       "note": "",
       "subtotal": 1196,
@@ -1712,12 +877,7 @@
       "orderNo": "FD457158",
       "table": 1,
       "items": [
-        {
-          "id": 1,
-          "name": "Margherita Pizza",
-          "price": 249,
-          "qty": 10
-        }
+        { "id": 1, "name": "Margherita Pizza", "price": 249, "qty": 10 }
       ],
       "customer": "Kuldeep Agarwal ",
       "note": "",
@@ -1734,24 +894,9 @@
       "orderNo": "FD972138",
       "table": 1,
       "items": [
-        {
-          "id": 41,
-          "name": "Paneer Tikka",
-          "price": 229,
-          "qty": 1
-        },
-        {
-          "id": 42,
-          "name": "Hara Bhara Kebab",
-          "price": 189,
-          "qty": 1
-        },
-        {
-          "id": 43,
-          "name": "Veg Seekh Kebab",
-          "price": 199,
-          "qty": 1
-        }
+        { "id": 41, "name": "Paneer Tikka", "price": 229, "qty": 1 },
+        { "id": 42, "name": "Hara Bhara Kebab", "price": 189, "qty": 1 },
+        { "id": 43, "name": "Veg Seekh Kebab", "price": 199, "qty": 1 }
       ],
       "customer": "Kuldeep Agarwal ",
       "note": "",
@@ -1765,77 +910,17 @@
     }
   ],
   "tables": [
-    {
-      "id": 1,
-      "name": "Table 1",
-      "active": true,
-      "occupied": true
-    },
-    {
-      "id": 2,
-      "name": "Table 2",
-      "active": true,
-      "occupied": false
-    },
-    {
-      "id": 3,
-      "name": "Table 3",
-      "active": true,
-      "occupied": false
-    },
-    {
-      "id": 4,
-      "name": "Table 4",
-      "active": true,
-      "occupied": false
-    },
-    {
-      "id": 5,
-      "name": "Table 5",
-      "active": true,
-      "occupied": false
-    },
-    {
-      "id": 6,
-      "name": "Table 6",
-      "active": true,
-      "occupied": false
-    },
-    {
-      "id": 7,
-      "name": "Table 7",
-      "active": true,
-      "occupied": false
-    },
-    {
-      "id": 8,
-      "name": "Table 8",
-      "active": true,
-      "occupied": false
-    },
-    {
-      "id": 9,
-      "name": "Table 9",
-      "active": true,
-      "occupied": false
-    },
-    {
-      "id": 10,
-      "name": "Table 10",
-      "active": true,
-      "occupied": false
-    },
-    {
-      "id": 11,
-      "name": "Table 11",
-      "active": true,
-      "occupied": false
-    },
-    {
-      "id": 12,
-      "name": "Table 12",
-      "active": true,
-      "occupied": false
-    }
+    { "id": 1, "name": "Table 1", "active": true, "occupied": true },
+    { "id": 2, "name": "Table 2", "active": true, "occupied": false },
+    { "id": 3, "name": "Table 3", "active": true, "occupied": false },
+    { "id": 4, "name": "Table 4", "active": true, "occupied": false },
+    { "id": 5, "name": "Table 5", "active": true, "occupied": false },
+    { "id": 6, "name": "Table 6", "active": true, "occupied": false },
+    { "id": 7, "name": "Table 7", "active": true, "occupied": false },
+    { "id": 8, "name": "Table 8", "active": true, "occupied": false },
+    { "id": 9, "name": "Table 9", "active": true, "occupied": false },
+    { "id": 10, "name": "Table 10", "active": true, "occupied": false },
+    { "id": 11, "name": "Table 11", "active": true, "occupied": false },
+    { "id": 12, "name": "Table 12", "active": true, "occupied": false }
   ]
 }
