@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>
+Track Order
+</title>
+
+<link
+rel="stylesheet"
+href="/css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="brand">
+🍽️ Foodie
+</div>
+
+<a href="/">
+Menu
+</a>
+
+</header>
+
+
+<main class="track">
+
+<div class="trackCard">
+
+<h1>
+Track Your Order
+</h1>
+
+<p id="summary">
+Loading...
+</p>
+
+<div id="steps">
+</div>
+
+<br>
+
+<button
+class="primary"
+onclick="location.href='/'">
+
+Back to Menu
+
+</button>
+
+</div>
+
+</main>
+
+
+<script>
+
+const orderId =
+new URLSearchParams(
+location.search
+).get("id");
+
+
+const labels = [
+"NEW",
+"ACCEPTED",
+"PREPARING",
+"READY",
+"COMPLETED"
+];
+
+
+async function loadOrder() {
+
+    const response =
+    await fetch(
+        "/api/orders/" +
+        orderId
+    );
+
+
+    const order =
+    await response.json();
+
+
+    if (order.error) {
+
+        document.getElementById(
+            "summary"
+        ).textContent =
+        "Order not found.";
+
+        return;
+
+    }
+
+
+    document.getElementById(
+        "summary"
+    ).innerHTML =
+
+    `<b>
+    ${order.orderNo}
+    </b>
+    · Table ${order.table}
+    · Total ₹${order.total}`;
+
+
+    const current =
+    labels.indexOf(
+        order.status
+    );
+
+
+    document.getElementById(
+        "steps"
+    ).innerHTML =
+
+    labels.map(
+        (status, index) => `
+
+        <div
+        class="step ${
+            index <= current
+            ? "done"
+            : ""
+        }">
+
+            <span>
+            ${
+                index <= current
+                ? "✓"
+                : "•"
+            }
+            </span>
+
+            <b>
+            ${status}
+            </b>
+
+        </div>
+
+        `
+    ).join("");
+
+
+    if (
+        order.status !==
+        "COMPLETED"
+        &&
+        order.status !==
+        "CANCELLED"
+    ) {
+
+        setTimeout(
+            loadOrder,
+            4000
+        );
+
+    }
+
+}
+
+
+loadOrder();
+
+</script>
+
+</body>
+
+</html>

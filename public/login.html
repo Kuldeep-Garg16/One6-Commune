@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>
+Admin Login
+</title>
+
+<link
+rel="stylesheet"
+href="/css/style.css">
+
+</head>
+
+<body>
+
+<main class="login">
+
+<div class="loginCard">
+
+<div class="brand">
+🍽️ Foodie
+</div>
+
+<h1>
+Admin Login
+</h1>
+
+
+<input
+id="user"
+placeholder="Username"
+value="admin">
+
+
+<input
+id="pass"
+type="password"
+placeholder="Password"
+value="admin123">
+
+
+<button
+class="primary full"
+onclick="login()">
+
+Login
+
+</button>
+
+
+<p
+id="err"
+class="error">
+</p>
+
+
+<small>
+Demo credentials:
+admin / admin123
+</small>
+
+</div>
+
+</main>
+
+
+<script>
+
+async function login() {
+
+    const response =
+    await fetch(
+        "/api/auth/login",
+        {
+
+            method: "POST",
+
+            headers: {
+                "Content-Type":
+                "application/json"
+            },
+
+            body:
+            JSON.stringify({
+
+                username:
+                document.getElementById(
+                    "user"
+                ).value,
+
+                password:
+                document.getElementById(
+                    "pass"
+                ).value
+
+            })
+
+        }
+    );
+
+
+    const data =
+    await response.json();
+
+
+    if (!response.ok) {
+
+        document.getElementById(
+            "err"
+        ).textContent =
+        data.error;
+
+        return;
+
+    }
+
+
+    localStorage.setItem(
+        "foodieToken",
+        data.token
+    );
+
+
+    location.href =
+    "/admin";
+
+}
+
+</script>
+
+</body>
+
+</html>

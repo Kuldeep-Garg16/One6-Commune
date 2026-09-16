@@ -1,0 +1,1040 @@
+{
+  "admin": {
+    "username": "Kuldeep Agarwal",
+    "passwordHash": "$2a$10$QqSCaEabLIMoQowL7ud2Y.luu3wymxaTgKNKkKeA1Rw.vRdU3K4li"
+  },
+  "menu": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "category": "Pizza",
+      "price": 249,
+      "description": "Classic cheese pizza with tomato and mozzarella",
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800"
+    },
+    {
+      "id": 2,
+      "name": "Farmhouse Pizza",
+      "category": "Pizza",
+      "price": 299,
+      "description": "Pizza loaded with fresh vegetables and cheese",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800"
+    },
+    {
+      "id": 3,
+      "name": "Paneer Tikka Pizza",
+      "category": "Pizza",
+      "price": 329,
+      "description": "Pizza topped with paneer tikka and vegetables",
+      "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498?w=800"
+    },
+    {
+      "id": 4,
+      "name": "Veggie Supreme Pizza",
+      "category": "Pizza",
+      "price": 349,
+      "description": "Loaded vegetable pizza with extra cheese",
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800"
+    },
+    {
+      "id": 5,
+      "name": "Cheese Burst Pizza",
+      "category": "Pizza",
+      "price": 379,
+      "description": "Extra cheesy pizza with a delicious cheese burst",
+      "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498?w=800"
+    },
+    {
+      "id": 6,
+      "name": "Corn Cheese Pizza",
+      "category": "Pizza",
+      "price": 279,
+      "description": "Sweet corn and cheese topped pizza",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800"
+    },
+    {
+      "id": 7,
+      "name": "Mushroom Pizza",
+      "category": "Pizza",
+      "price": 299,
+      "description": "Fresh mushroom and mozzarella pizza",
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800"
+    },
+    {
+      "id": 8,
+      "name": "Mexican Green Wave Pizza",
+      "category": "Pizza",
+      "price": 319,
+      "description": "Mexican style pizza with vegetables and herbs",
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800"
+    },
+    {
+      "id": 9,
+      "name": "Double Cheese Pizza",
+      "category": "Pizza",
+      "price": 359,
+      "description": "Extra cheese pizza for cheese lovers",
+      "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498?w=800"
+    },
+    {
+      "id": 10,
+      "name": "Spicy Paneer Pizza",
+      "category": "Pizza",
+      "price": 339,
+      "description": "Spicy paneer with onions and capsicum",
+      "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800"
+    },
+    {
+      "id": 11,
+      "name": "Classic Veg Burger",
+      "category": "Burgers",
+      "price": 129,
+      "description": "Crispy vegetable patty with fresh vegetables",
+      "image": "https://images.unsplash.com/photo-1520072959219-c595dc870360?w=800"
+    },
+    {
+      "id": 12,
+      "name": "Cheese Burger",
+      "category": "Burgers",
+      "price": 159,
+      "description": "Veg burger with melted cheese",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800"
+    },
+    {
+      "id": 13,
+      "name": "Paneer Burger",
+      "category": "Burgers",
+      "price": 179,
+      "description": "Crispy paneer patty burger",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800"
+    },
+    {
+      "id": 14,
+      "name": "Double Cheese Burger",
+      "category": "Burgers",
+      "price": 199,
+      "description": "Double cheese loaded veg burger",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800"
+    },
+    {
+      "id": 15,
+      "name": "Spicy Veg Burger",
+      "category": "Burgers",
+      "price": 149,
+      "description": "Spicy crispy veg burger",
+      "image": "https://images.unsplash.com/photo-1520072959219-c595dc870360?w=800"
+    },
+    {
+      "id": 16,
+      "name": "Aloo Tikki Burger",
+      "category": "Burgers",
+      "price": 119,
+      "description": "Indian style aloo tikki burger",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800"
+    },
+    {
+      "id": 17,
+      "name": "Mushroom Burger",
+      "category": "Burgers",
+      "price": 169,
+      "description": "Mushroom patty with cheese and vegetables",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800"
+    },
+    {
+      "id": 18,
+      "name": "Corn Cheese Burger",
+      "category": "Burgers",
+      "price": 159,
+      "description": "Sweet corn and cheese burger",
+      "image": "https://images.unsplash.com/photo-1520072959219-c595dc870360?w=800"
+    },
+    {
+      "id": 19,
+      "name": "Tandoori Paneer Burger",
+      "category": "Burgers",
+      "price": 189,
+      "description": "Tandoori paneer with creamy sauce",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800"
+    },
+    {
+      "id": 20,
+      "name": "Premium Veg Burger",
+      "category": "Burgers",
+      "price": 219,
+      "description": "Premium loaded burger with cheese and vegetables",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800"
+    },
+    {
+      "id": 21,
+      "name": "Veg Biryani",
+      "category": "Biryani",
+      "price": 199,
+      "description": "Aromatic basmati rice with vegetables",
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800"
+    },
+    {
+      "id": 22,
+      "name": "Paneer Biryani",
+      "category": "Biryani",
+      "price": 249,
+      "description": "Fragrant rice with spicy paneer",
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=800"
+    },
+    {
+      "id": 23,
+      "name": "Hyderabadi Veg Biryani",
+      "category": "Biryani",
+      "price": 229,
+      "description": "Hyderabadi style aromatic vegetable biryani",
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800"
+    },
+    {
+      "id": 24,
+      "name": "Special Veg Biryani",
+      "category": "Biryani",
+      "price": 279,
+      "description": "Special restaurant style vegetable biryani",
+      "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=800"
+    },
+    {
+      "id": 25,
+      "name": "Mushroom Biryani",
+      "category": "Biryani",
+      "price": 239,
+      "description": "Mushroom cooked with aromatic basmati rice",
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800"
+    },
+    {
+      "id": 26,
+      "name": "Jeera Rice",
+      "category": "Rice",
+      "price": 119,
+      "description": "Basmati rice tempered with cumin",
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800"
+    },
+    {
+      "id": 27,
+      "name": "Veg Fried Rice",
+      "category": "Rice",
+      "price": 169,
+      "description": "Fried rice with fresh vegetables",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800"
+    },
+    {
+      "id": 28,
+      "name": "Schezwan Fried Rice",
+      "category": "Rice",
+      "price": 189,
+      "description": "Spicy Schezwan style fried rice",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800"
+    },
+    {
+      "id": 29,
+      "name": "Paneer Fried Rice",
+      "category": "Rice",
+      "price": 199,
+      "description": "Fried rice with crispy paneer",
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800"
+    },
+    {
+      "id": 30,
+      "name": "Garlic Fried Rice",
+      "category": "Rice",
+      "price": 179,
+      "description": "Aromatic fried rice with garlic",
+      "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800"
+    },
+    {
+      "id": 31,
+      "name": "White Sauce Pasta",
+      "category": "Pasta",
+      "price": 219,
+      "description": "Creamy pasta cooked in white sauce",
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800"
+    },
+    {
+      "id": 32,
+      "name": "Red Sauce Pasta",
+      "category": "Pasta",
+      "price": 199,
+      "description": "Pasta tossed in tomato sauce",
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800"
+    },
+    {
+      "id": 33,
+      "name": "Arrabbiata Pasta",
+      "category": "Pasta",
+      "price": 229,
+      "description": "Spicy Italian tomato pasta",
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800"
+    },
+    {
+      "id": 34,
+      "name": "Cheese Pasta",
+      "category": "Pasta",
+      "price": 239,
+      "description": "Creamy cheese loaded pasta",
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800"
+    },
+    {
+      "id": 35,
+      "name": "Paneer Pasta",
+      "category": "Pasta",
+      "price": 249,
+      "description": "Creamy pasta with paneer pieces",
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800"
+    },
+    {
+      "id": 36,
+      "name": "Veggie Pasta",
+      "category": "Pasta",
+      "price": 219,
+      "description": "Pasta with fresh seasonal vegetables",
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800"
+    },
+    {
+      "id": 37,
+      "name": "Creamy Mushroom Pasta",
+      "category": "Pasta",
+      "price": 259,
+      "description": "Creamy mushroom pasta",
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800"
+    },
+    {
+      "id": 38,
+      "name": "Spicy Masala Pasta",
+      "category": "Pasta",
+      "price": 199,
+      "description": "Indian style spicy masala pasta",
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800"
+    },
+    {
+      "id": 39,
+      "name": "Corn Cheese Pasta",
+      "category": "Pasta",
+      "price": 239,
+      "description": "Sweet corn and cheese pasta",
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=800"
+    },
+    {
+      "id": 40,
+      "name": "Special Chef Pasta",
+      "category": "Pasta",
+      "price": 279,
+      "description": "Chef special creamy vegetable pasta",
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800"
+    },
+    {
+      "id": 41,
+      "name": "Paneer Tikka",
+      "category": "Starters",
+      "price": 229,
+      "description": "Grilled paneer marinated with Indian spices",
+      "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800"
+    },
+    {
+      "id": 42,
+      "name": "Hara Bhara Kebab",
+      "category": "Starters",
+      "price": 189,
+      "description": "Healthy spinach and vegetable kebabs",
+      "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800"
+    },
+    {
+      "id": 43,
+      "name": "Veg Seekh Kebab",
+      "category": "Starters",
+      "price": 199,
+      "description": "Spiced vegetable seekh kebabs",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 44,
+      "name": "Paneer Malai Tikka",
+      "category": "Starters",
+      "price": 249,
+      "description": "Soft creamy paneer tikka",
+      "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=800"
+    },
+    {
+      "id": 45,
+      "name": "Crispy Corn",
+      "category": "Starters",
+      "price": 179,
+      "description": "Crispy fried sweet corn with spices",
+      "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=800"
+    },
+    {
+      "id": 46,
+      "name": "Chilli Paneer",
+      "category": "Starters",
+      "price": 219,
+      "description": "Paneer tossed with peppers and spicy sauce",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 47,
+      "name": "Veg Manchurian",
+      "category": "Starters",
+      "price": 189,
+      "description": "Vegetable dumplings in Manchurian sauce",
+      "image": "https://images.unsplash.com/photo-1625398407796-82650a8c135f?w=800"
+    },
+    {
+      "id": 48,
+      "name": "Honey Chilli Potato",
+      "category": "Starters",
+      "price": 179,
+      "description": "Crispy potato with sweet chilli glaze",
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800"
+    },
+    {
+      "id": 49,
+      "name": "Spring Rolls",
+      "category": "Starters",
+      "price": 159,
+      "description": "Crispy vegetable spring rolls",
+      "image": "https://images.unsplash.com/photo-1548507200-dad8f2b4c0e5?w=800"
+    },
+    {
+      "id": 50,
+      "name": "Cheese Garlic Bread",
+      "category": "Starters",
+      "price": 169,
+      "description": "Garlic bread topped with melted cheese",
+      "image": "https://images.unsplash.com/photo-1573140401552-3fab0b24306f?w=800"
+    },
+    {
+      "id": 51,
+      "name": "Dal Tadka",
+      "category": "Main Course",
+      "price": 149,
+      "description": "Yellow lentils tempered with Indian spices",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800"
+    },
+    {
+      "id": 52,
+      "name": "Dal Makhani",
+      "category": "Main Course",
+      "price": 199,
+      "description": "Creamy black lentils cooked overnight",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=800"
+    },
+    {
+      "id": 53,
+      "name": "Paneer Butter Masala",
+      "category": "Main Course",
+      "price": 249,
+      "description": "Paneer cooked in creamy tomato gravy",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800"
+    },
+    {
+      "id": 54,
+      "name": "Kadai Paneer",
+      "category": "Main Course",
+      "price": 239,
+      "description": "Paneer with capsicum and kadai spices",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800"
+    },
+    {
+      "id": 55,
+      "name": "Shahi Paneer",
+      "category": "Main Course",
+      "price": 259,
+      "description": "Rich paneer curry with creamy gravy",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800"
+    },
+    {
+      "id": 56,
+      "name": "Palak Paneer",
+      "category": "Main Course",
+      "price": 229,
+      "description": "Paneer cooked in creamy spinach gravy",
+      "image": "https://images.unsplash.com/photo-1618449840665-9ed506d3f8a1?w=800"
+    },
+    {
+      "id": 57,
+      "name": "Mix Veg",
+      "category": "Main Course",
+      "price": 179,
+      "description": "Mixed vegetables cooked with Indian spices",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 58,
+      "name": "Malai Kofta",
+      "category": "Main Course",
+      "price": 249,
+      "description": "Soft vegetable kofta in creamy gravy",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 59,
+      "name": "Chole Masala",
+      "category": "Main Course",
+      "price": 159,
+      "description": "Spicy chickpea curry",
+      "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=800"
+    },
+    {
+      "id": 60,
+      "name": "Aloo Jeera",
+      "category": "Main Course",
+      "price": 139,
+      "description": "Potatoes cooked with cumin and spices",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 61,
+      "name": "Butter Naan",
+      "category": "Breads",
+      "price": 59,
+      "description": "Soft naan topped with butter",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 62,
+      "name": "Garlic Naan",
+      "category": "Breads",
+      "price": 79,
+      "description": "Naan topped with garlic and butter",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 63,
+      "name": "Plain Naan",
+      "category": "Breads",
+      "price": 49,
+      "description": "Soft traditional Indian naan",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 64,
+      "name": "Tandoori Roti",
+      "category": "Breads",
+      "price": 39,
+      "description": "Traditional tandoori roti",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 65,
+      "name": "Butter Roti",
+      "category": "Breads",
+      "price": 49,
+      "description": "Soft roti with butter",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 66,
+      "name": "Lachha Paratha",
+      "category": "Breads",
+      "price": 69,
+      "description": "Layered crispy Indian paratha",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 67,
+      "name": "Paneer Paratha",
+      "category": "Breads",
+      "price": 119,
+      "description": "Stuffed paneer paratha with butter",
+      "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=800"
+    },
+    {
+      "id": 68,
+      "name": "Aloo Paratha",
+      "category": "Breads",
+      "price": 99,
+      "description": "Stuffed potato paratha",
+      "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=800"
+    },
+    {
+      "id": 69,
+      "name": "Cheese Naan",
+      "category": "Breads",
+      "price": 109,
+      "description": "Naan stuffed with cheese",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800"
+    },
+    {
+      "id": 70,
+      "name": "Stuffed Kulcha",
+      "category": "Breads",
+      "price": 109,
+      "description": "Soft stuffed Indian kulcha",
+      "image": "https://images.unsplash.com/photo-1626132647523-66f5bf380027?w=800"
+    },
+    {
+      "id": 71,
+      "name": "French Fries",
+      "category": "Sides",
+      "price": 99,
+      "description": "Crispy golden French fries",
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800"
+    },
+    {
+      "id": 72,
+      "name": "Peri Peri Fries",
+      "category": "Sides",
+      "price": 129,
+      "description": "French fries with spicy peri peri seasoning",
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800"
+    },
+    {
+      "id": 73,
+      "name": "Cheese Fries",
+      "category": "Sides",
+      "price": 149,
+      "description": "Fries topped with creamy cheese",
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800"
+    },
+    {
+      "id": 74,
+      "name": "Masala Fries",
+      "category": "Sides",
+      "price": 119,
+      "description": "Crispy fries with Indian masala",
+      "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800"
+    },
+    {
+      "id": 75,
+      "name": "Veg Sandwich",
+      "category": "Sandwich",
+      "price": 129,
+      "description": "Fresh vegetable grilled sandwich",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
+    },
+    {
+      "id": 76,
+      "name": "Cheese Sandwich",
+      "category": "Sandwich",
+      "price": 159,
+      "description": "Grilled sandwich with melted cheese",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
+    },
+    {
+      "id": 77,
+      "name": "Paneer Sandwich",
+      "category": "Sandwich",
+      "price": 179,
+      "description": "Grilled sandwich with spicy paneer",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
+    },
+    {
+      "id": 78,
+      "name": "Club Sandwich",
+      "category": "Sandwich",
+      "price": 199,
+      "description": "Loaded triple layer vegetable sandwich",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
+    },
+    {
+      "id": 79,
+      "name": "Corn Cheese Sandwich",
+      "category": "Sandwich",
+      "price": 169,
+      "description": "Sweet corn and cheese grilled sandwich",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
+    },
+    {
+      "id": 80,
+      "name": "Tandoori Paneer Sandwich",
+      "category": "Sandwich",
+      "price": 189,
+      "description": "Tandoori paneer grilled sandwich",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800"
+    },
+    {
+      "id": 81,
+      "name": "Cold Coffee",
+      "category": "Drinks",
+      "price": 129,
+      "description": "Chilled creamy cold coffee",
+      "image": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?w=800"
+    },
+    {
+      "id": 82,
+      "name": "Chocolate Shake",
+      "category": "Drinks",
+      "price": 159,
+      "description": "Rich chocolate milkshake",
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800"
+    },
+    {
+      "id": 83,
+      "name": "Vanilla Shake",
+      "category": "Drinks",
+      "price": 149,
+      "description": "Creamy vanilla milkshake",
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800"
+    },
+    {
+      "id": 84,
+      "name": "Strawberry Shake",
+      "category": "Drinks",
+      "price": 159,
+      "description": "Fresh strawberry milkshake",
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800"
+    },
+    {
+      "id": 85,
+      "name": "Mango Shake",
+      "category": "Drinks",
+      "price": 159,
+      "description": "Creamy mango milkshake",
+      "image": "https://images.unsplash.com/photo-1623065422902-30a2d299bbe4?w=800"
+    },
+    {
+      "id": 86,
+      "name": "Fresh Lime Soda",
+      "category": "Drinks",
+      "price": 89,
+      "description": "Refreshing fresh lime soda",
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800"
+    },
+    {
+      "id": 87,
+      "name": "Masala Lemonade",
+      "category": "Drinks",
+      "price": 99,
+      "description": "Refreshing lemonade with Indian spices",
+      "image": "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=800"
+    },
+    {
+      "id": 88,
+      "name": "Iced Tea",
+      "category": "Drinks",
+      "price": 99,
+      "description": "Chilled refreshing iced tea",
+      "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800"
+    },
+    {
+      "id": 89,
+      "name": "Virgin Mojito",
+      "category": "Drinks",
+      "price": 149,
+      "description": "Refreshing mint and lime mojito",
+      "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=800"
+    },
+    {
+      "id": 90,
+      "name": "Cold Chocolate",
+      "category": "Drinks",
+      "price": 149,
+      "description": "Chilled chocolate drink",
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=800"
+    },
+    {
+      "id": 91,
+      "name": "Gulab Jamun",
+      "category": "Desserts",
+      "price": 99,
+      "description": "Soft gulab jamun served warm",
+      "image": "https://images.unsplash.com/photo-1601303516534-8d0c4b6d4b3e?w=800"
+    },
+    {
+      "id": 92,
+      "name": "Rasmalai",
+      "category": "Desserts",
+      "price": 129,
+      "description": "Soft paneer dumplings in creamy milk",
+      "image": "https://images.unsplash.com/photo-1631452180775-7f3b7d4a3c5e?w=800"
+    },
+    {
+      "id": 93,
+      "name": "Brownie",
+      "category": "Desserts",
+      "price": 149,
+      "description": "Warm chocolate brownie",
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=800"
+    },
+    {
+      "id": 94,
+      "name": "Chocolate Cake",
+      "category": "Desserts",
+      "price": 169,
+      "description": "Rich and moist chocolate cake",
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=800"
+    },
+    {
+      "id": 95,
+      "name": "Vanilla Ice Cream",
+      "category": "Desserts",
+      "price": 99,
+      "description": "Classic creamy vanilla ice cream",
+      "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=800"
+    },
+    {
+      "id": 96,
+      "name": "Chocolate Ice Cream",
+      "category": "Desserts",
+      "price": 109,
+      "description": "Creamy chocolate ice cream",
+      "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=800"
+    },
+    {
+      "id": 97,
+      "name": "Brownie with Ice Cream",
+      "category": "Desserts",
+      "price": 199,
+      "description": "Warm brownie served with ice cream",
+      "image": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?w=800"
+    },
+    {
+      "id": 98,
+      "name": "Fruit Cream",
+      "category": "Desserts",
+      "price": 139,
+      "description": "Fresh fruits with creamy dressing",
+      "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?w=800"
+    },
+    {
+      "id": 99,
+      "name": "Kulfi",
+      "category": "Desserts",
+      "price": 89,
+      "description": "Traditional Indian creamy kulfi",
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=800"
+    },
+    {
+      "id": 100,
+      "name": "Special Dessert Platter",
+      "category": "Desserts",
+      "price": 299,
+      "description": "Chef selection of delicious desserts",
+      "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1789543235031,
+      "orderNo": "FD235031",
+      "table": 1,
+      "items": [
+        {
+          "id": 1,
+          "name": "Margherita Pizza",
+          "price": 249,
+          "qty": 1
+        },
+        {
+          "id": 2,
+          "name": "Farmhouse Pizza",
+          "price": 299,
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "name": "Paneer Tikka Pizza",
+          "price": 329,
+          "qty": 1
+        }
+      ],
+      "customer": "Guest",
+      "note": "",
+      "subtotal": 877,
+      "gst": 44,
+      "total": 921,
+      "paymentMethod": "Pay at Counter",
+      "paymentStatus": "PENDING",
+      "status": "NEW",
+      "createdAt": "2026-09-16T07:20:35.032Z"
+    },
+    {
+      "id": 1786098759067,
+      "orderNo": "FD759067",
+      "table": 1,
+      "items": [
+        {
+          "id": 18,
+          "name": "Corn Cheese Burger",
+          "price": 159,
+          "qty": 8
+        }
+      ],
+      "customer": "Kuldeep Agarwal ",
+      "note": "",
+      "subtotal": 1272,
+      "gst": 64,
+      "total": 1336,
+      "paymentMethod": "Pay at Counter",
+      "paymentStatus": "PENDING",
+      "status": "NEW",
+      "createdAt": "2026-08-07T10:32:39.067Z"
+    },
+    {
+      "id": 1786098730619,
+      "orderNo": "FD730619",
+      "table": 1,
+      "items": [
+        {
+          "id": 7,
+          "name": "Mushroom Pizza",
+          "price": 299,
+          "qty": 4
+        }
+      ],
+      "customer": "Kuldeep Agarwal ",
+      "note": "",
+      "subtotal": 1196,
+      "gst": 60,
+      "total": 1256,
+      "paymentMethod": "Demo Payment",
+      "paymentStatus": "PAID",
+      "status": "NEW",
+      "createdAt": "2026-08-07T10:32:10.619Z"
+    },
+    {
+      "id": 1786098498188,
+      "orderNo": "FD498188",
+      "table": 1,
+      "items": [
+        {
+          "id": 2,
+          "name": "Farmhouse Pizza",
+          "price": 299,
+          "qty": 4
+        }
+      ],
+      "customer": "Kuldeep Agarwal ",
+      "note": "",
+      "subtotal": 1196,
+      "gst": 60,
+      "total": 1256,
+      "paymentMethod": "Demo Payment",
+      "paymentStatus": "PAID",
+      "status": "NEW",
+      "createdAt": "2026-08-07T10:28:18.188Z"
+    },
+    {
+      "id": 1786098457158,
+      "orderNo": "FD457158",
+      "table": 1,
+      "items": [
+        {
+          "id": 1,
+          "name": "Margherita Pizza",
+          "price": 249,
+          "qty": 10
+        }
+      ],
+      "customer": "Kuldeep Agarwal ",
+      "note": "",
+      "subtotal": 2490,
+      "gst": 125,
+      "total": 2615,
+      "paymentMethod": "Pay at Counter",
+      "paymentStatus": "PENDING",
+      "status": "NEW",
+      "createdAt": "2026-08-07T10:27:37.158Z"
+    },
+    {
+      "id": 1786092972138,
+      "orderNo": "FD972138",
+      "table": 1,
+      "items": [
+        {
+          "id": 41,
+          "name": "Paneer Tikka",
+          "price": 229,
+          "qty": 1
+        },
+        {
+          "id": 42,
+          "name": "Hara Bhara Kebab",
+          "price": 189,
+          "qty": 1
+        },
+        {
+          "id": 43,
+          "name": "Veg Seekh Kebab",
+          "price": 199,
+          "qty": 1
+        }
+      ],
+      "customer": "Kuldeep Agarwal ",
+      "note": "",
+      "subtotal": 617,
+      "gst": 31,
+      "total": 648,
+      "paymentMethod": "Demo Payment",
+      "paymentStatus": "PAID",
+      "status": "NEW",
+      "createdAt": "2026-08-07T08:56:12.139Z"
+    }
+  ],
+  "tables": [
+    {
+      "id": 1,
+      "name": "Table 1",
+      "active": true,
+      "occupied": true
+    },
+    {
+      "id": 2,
+      "name": "Table 2",
+      "active": true,
+      "occupied": false
+    },
+    {
+      "id": 3,
+      "name": "Table 3",
+      "active": true,
+      "occupied": false
+    },
+    {
+      "id": 4,
+      "name": "Table 4",
+      "active": true,
+      "occupied": false
+    },
+    {
+      "id": 5,
+      "name": "Table 5",
+      "active": true,
+      "occupied": false
+    },
+    {
+      "id": 6,
+      "name": "Table 6",
+      "active": true,
+      "occupied": false
+    },
+    {
+      "id": 7,
+      "name": "Table 7",
+      "active": true,
+      "occupied": false
+    },
+    {
+      "id": 8,
+      "name": "Table 8",
+      "active": true,
+      "occupied": false
+    },
+    {
+      "id": 9,
+      "name": "Table 9",
+      "active": true,
+      "occupied": false
+    },
+    {
+      "id": 10,
+      "name": "Table 10",
+      "active": true,
+      "occupied": false
+    },
+    {
+      "id": 11,
+      "name": "Table 11",
+      "active": true,
+      "occupied": false
+    },
+    {
+      "id": 12,
+      "name": "Table 12",
+      "active": true,
+      "occupied": false
+    }
+  ]
+}

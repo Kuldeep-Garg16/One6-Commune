@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>
+Foodie Admin
+</title>
+
+<link
+rel="stylesheet"
+href="/css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="brand">
+🍽️ Foodie Admin
+</div>
+
+<a href="/">
+Customer
+</a>
+
+<button
+onclick="logout()">
+
+Logout
+
+</button>
+
+</header>
+
+
+<main>
+
+<h1>
+Restaurant Dashboard
+</h1>
+
+
+<div
+id="stats"
+class="stats">
+</div>
+
+
+<div class="adminGrid">
+
+
+<section class="panel">
+
+<h2>
+Live Orders
+</h2>
+
+<div id="orders">
+</div>
+
+</section>
+
+
+<section class="panel">
+
+<h2>
+Add Menu Item
+</h2>
+
+
+<input
+id="fname"
+placeholder="Food name">
+
+
+<input
+id="fcat"
+placeholder="Category">
+
+
+<input
+id="fprice"
+type="number"
+placeholder="Price">
+
+
+<input
+id="fimg"
+placeholder="Image URL">
+
+
+<textarea
+id="fdesc"
+placeholder="Description">
+</textarea>
+
+
+<button
+class="primary full"
+onclick="addFood()">
+
+Add Food
+
+</button>
+
+</section>
+
+</div>
+
+
+<section class="panel">
+
+<h2>
+Menu Management
+</h2>
+
+<div
+id="menuAdmin"
+class="adminMenu">
+</div>
+
+</section>
+
+
+<section class="panel">
+
+<h2>
+Tables & QR Codes
+</h2>
+
+<div
+id="tables"
+class="qrGrid">
+</div>
+
+</section>
+
+
+</main>
+
+
+<script
+src="/js/admin.js">
+</script>
+
+</body>
+
+</html>

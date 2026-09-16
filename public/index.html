@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>One6 Commune</title>
+
+<link
+rel="stylesheet"
+href="/css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="brand">
+🍽️ One6 Commune
+</div>
+
+<div class="table">
+Table <b id="tableNo">—</b>
+</div>
+
+<button
+class="cartBtn"
+onclick="openCart()">
+
+🛒
+<span id="cartCount">0</span>
+
+</button>
+
+</header>
+
+
+<section class="hero">
+
+<div>
+
+<small>
+WELCOME TO ONE6 COMMUNE
+</small>
+
+<h1>
+Good food.<br>
+Good mood.
+</h1>
+
+<p>
+Scan the QR, choose your favourites
+and order from your table.
+</p>
+
+</div>
+
+</section>
+
+
+<main>
+
+<div class="notice">
+
+📍 You are ordering from
+
+<b>
+Table <span id="noticeTable"></span>
+</b>
+
+</div>
+
+
+<input
+id="search"
+class="search"
+placeholder="🔎 Search food..."
+oninput="renderMenu()">
+
+
+<div
+id="categories"
+class="categories">
+</div>
+
+
+<div
+id="menu"
+class="grid">
+</div>
+
+</main>
+
+
+<!-- CART -->
+
+<div
+id="cartModal"
+class="modal hide">
+
+<div class="modalBox">
+
+<button
+class="x"
+onclick="closeCart()">
+
+×
+
+</button>
+
+<h2>
+Your Order
+</h2>
+
+<div id="cartItems">
+</div>
+
+<div class="bill">
+
+<p>
+Subtotal
+<b id="subtotal">₹0</b>
+</p>
+
+<p>
+GST (5%)
+<b id="gst">₹0</b>
+</p>
+
+<h3>
+Total
+<b id="total">₹0</b>
+</h3>
+
+</div>
+
+<button
+class="primary full"
+onclick="goCheckout()">
+
+Proceed to Checkout
+
+</button>
+
+</div>
+
+</div>
+
+
+<!-- CHECKOUT -->
+
+<div
+id="checkoutModal"
+class="modal hide">
+
+<div class="modalBox">
+
+<button
+class="x"
+onclick="hide('checkoutModal')">
+
+×
+
+</button>
+
+<h2>
+Checkout
+</h2>
+
+<input
+id="customer"
+placeholder="Your name">
+
+
+<textarea
+id="note"
+placeholder="Special instruction (optional)">
+</textarea>
+
+
+<select id="payment">
+
+<option>
+Demo Payment
+</option>
+
+<option>
+Pay at Counter
+</option>
+
+</select>
+
+
+<p class="muted">
+
+Demo Payment is included for
+college-project testing.
+
+</p>
+
+
+<button
+class="primary full"
+onclick="placeOrder()">
+
+Pay & Place Order
+
+</button>
+
+</div>
+
+</div>
+
+
+<!-- SUCCESS -->
+
+<div
+id="successModal"
+class="modal hide">
+
+<div class="modalBox center">
+
+<div class="success">
+✓
+</div>
+
+<h2>
+Order Confirmed!
+</h2>
+
+<p id="successMsg">
+</p>
+
+<a
+id="trackLink"
+class="primary linkBtn">
+
+Track Order
+
+</a>
+
+</div>
+
+</div>
+
+
+<script src="/js/app.js"></script>
+
+</body>
+
+</html>
